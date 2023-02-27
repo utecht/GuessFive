@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  thing: shinji
+  tag: character
+  rating: 5.0
+
+two:
+  thing: shinji
+  tag: anime
+  rating: 4.8
+
+three:
+  thing: evangelion
+  tag: anime
+  rating: 4.5

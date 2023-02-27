@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+evangelion:
+  name: Neon Genesis Evangelion
+  link: https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion
+  img: https://m.media-amazon.com/images/M/MV5BODZkZjUxNmEtMGEyOS00ZDY5LTkxZDMtZTJkZDBiZTkyOWRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg
+
+shinji:
+  name: Shinji Ikari
+  link: https://en.wikipedia.org/wiki/Shinji_Ikari
+  img: https://wiki.evageeks.org/images/c/ca/26_C343_shinji-grin.jpg

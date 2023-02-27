@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+anime:
+  name: Anime
+  rating: 5.0
+
+character:
+  name: Character
+  rating: 4.5
